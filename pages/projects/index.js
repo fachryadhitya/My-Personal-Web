@@ -1,12 +1,12 @@
-import Head from "next/head";
-import About from "../components/About";
+import Head from "next/Head";
+import Projects from "../../components/Projects";
 import { useRouter } from "next/router";
-export default function Home() {
+const Index = () => {
   const router = useRouter();
   return (
     <div>
       <Head>
-        <title>@fachryadhitya</title>
+        <title>Projects</title>
       </Head>
 
       <header className="text-gray-500 bg-gray-900 body-font">
@@ -34,7 +34,9 @@ export default function Home() {
         </div>
       </header>
 
-      <About />
+      <Projects />
     </div>
   );
-}
+};
+
+export default Index;
