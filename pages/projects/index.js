@@ -1,4 +1,4 @@
-import Head from "next/Head";
+import Head from "next/head";
 import Projects from "../../components/Projects";
 import { useRouter } from "next/router";
 const Index = () => {
