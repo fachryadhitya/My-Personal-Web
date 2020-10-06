@@ -22,10 +22,9 @@ const About = () => {
               </div>
               <div className="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-800 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
                 <p className="leading-relaxed text-lg mb-4">
-                  Hi, Call me Fachry. I'm a student at Bina Nusantara University
-                  that interested in software engineering. I love doing Web
-                  Development. I am passionate about software and the user
-                  experience through simple, functional and practical user
+                  Hi, Call me Fachry. I'm a Computer Science student. I love
+                  doing Web Development. I am passionate about software and the
+                  user experience through simple, functional and practical user
                   interfaces. With a background in Computer Science, I’ve always
                   been driven by perfecting the Software application. Let's be
                   partner!
